@@ -1,6 +1,6 @@
 # À propos
 
-```{image} ./img/Maël.png
+```{image} ./img/mael_photo.png
 :alt: Photo de profil
 :class: bg-primary mb-1
 :width: 200px
